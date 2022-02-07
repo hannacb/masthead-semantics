@@ -1,4 +1,4 @@
-{logo}
+i{logo}
 The Solar System
 
 [Stars]
